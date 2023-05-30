@@ -1,4 +1,4 @@
-## List of 1.9 PvP Asian Servers for Duels and FFA (Cracked & Premium)
+## List of 1.9 Asia PvP Servers for Duels and FFA (Cracked & Premium)
 
 **Duels** (Premium)
 - as.catpvp.xyz
