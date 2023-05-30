@@ -22,4 +22,4 @@
 
 Contact **Itz Yong An#2244** on Discord for updates or changes to the repository.
 
-![Discord Banner 2](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2)
+[Discord Banner 2](https://discordapp.com/api/guilds/825971291567030313/widget.png?style=banner2)
