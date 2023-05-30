@@ -18,6 +18,6 @@
 - play.kchscraft.net (KitPvP)
 - mazerclub.com (CrystalPvP)
 
-**NOTE:** Servers that aren't on this list are either not recommended to play on or are not known about.
+**NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
 Contact **Itz Yong An#2244** on Discord for updates or changes to the repository.
