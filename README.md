@@ -10,13 +10,14 @@
 
 **FFA** (Premium)
 - as.stray.gg
+- as.catpvp.xyz
 
 **FFA** (Cracked)
 - asia.chickencraft.nl
 - play.anarchianetwork.com
 - fusion-network.xyz
 - play.kchscraft.net (KitPvP)
-- mazerclub.com (Crystal)
+- mazerclub.com (Crystal & Sword)
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
