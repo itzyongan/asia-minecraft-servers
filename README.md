@@ -22,3 +22,8 @@
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
 Contact **Itz Yong An#2244** on Discord for updates or changes to the repository.
+
+## Discord
+[Join](https://discord.gg/TTAgYjXmkh)
+
+![Discord Banner 2](https://discord.com/api/guilds/825971291567030313/widget.png?style=banner2)
