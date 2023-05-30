@@ -21,4 +21,4 @@
 **NOTE:** Servers that aren't on this list are either not recommended to play on or are not known about.
 
 Contact **Itz Yong An#2244** on Discord for updates or changes to the repository.
-[![Discord Presence](https://lanyard.cnrad.dev/api/:742344195519414333)](https://discord.com/users/:742344195519414333)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:742344195519414333)
