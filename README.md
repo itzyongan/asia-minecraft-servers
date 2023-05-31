@@ -22,6 +22,6 @@
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
 ## Discord
-Click [HERE](https://discord.gg/TTAgYjXmkh) to join our Discord server.
+Click [HERE](https://discord.gg/TTAgYjXmkh) to join my Discord server.
 
 ![Discord Banner 2](https://discord.com/api/guilds/825971291567030313/widget.png?style=banner2)
