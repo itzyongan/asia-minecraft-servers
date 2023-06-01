@@ -6,7 +6,7 @@
 **Duels** (Cracked)
 - play.kchscraft.net
 - asia.chickencraft.nl
-- mazerclub.com (Crystal)
+- mazerclub.com
 
 **FFA** (Premium)
 - as.stray.gg
@@ -17,7 +17,7 @@
 - play.anarchianetwork.com
 - fusion-network.xyz
 - play.kchscraft.net (KitPvP)
-- mazerclub.com (Crystal & Sword)
+- mazerclub.com
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
