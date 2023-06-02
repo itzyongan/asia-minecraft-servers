@@ -20,6 +20,7 @@
 - play.kchscraft.net (KitPvP)
 - mazerclub.com
 - alsmp.net (Crystal)
+- pizzasmp.lol (Crystal)
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
