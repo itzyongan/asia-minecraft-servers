@@ -7,6 +7,7 @@
 - play.kchscraft.net
 - asia.chickencraft.nl
 - mazerclub.com
+- alsmp.net (Crystal)
 
 **FFA** (Premium)
 - as.stray.gg
