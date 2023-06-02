@@ -18,6 +18,7 @@
 - fusion-network.xyz
 - play.kchscraft.net (KitPvP)
 - mazerclub.com
+- alsmp.net (Crystal)
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
