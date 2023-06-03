@@ -22,7 +22,7 @@
 - alsmp.net (Crystal)
 - pizzasmp.lol (Crystal)
 
-# **NOTE:** Servers that aren't on this list are either not recommended or unknown.
+### **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
 ## Discord
 Click [HERE](https://discord.gg/TTAgYjXmkh) to join my Discord server.
