@@ -8,6 +8,7 @@
 - asia.chickencraft.nl
 - mazerclub.com
 - alsmp.net (Crystal)
+- thiccmc.com
 
 **FFA** (Premium)
 - as.stray.gg
@@ -22,6 +23,7 @@
 - alsmp.net (Crystal)
 - pizzasmp.lol (Crystal)
 - seapvp.mc-join.xyz (Crystal)
+- thiccmc.com
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
