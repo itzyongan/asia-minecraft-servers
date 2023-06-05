@@ -1,5 +1,4 @@
 ## Servers
-These servers are located in Singapore.
 
 **Duels** (Premium)
 - as.catpvp.xyz
