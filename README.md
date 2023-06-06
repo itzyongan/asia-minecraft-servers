@@ -23,6 +23,7 @@
 - alsmp.net (Crystal)
 - pizzasmp.lol (Crystal)
 - seapvp.mc-join.xyz (Crystal)
+- play.yezcraft.my.id (Crystal)
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
