@@ -9,7 +9,6 @@
 - play.kchscraft.net
 - asia.chickencraft.nl
 - mazerclub.com
-- alsmp.net (Crystal)
 - thiccmc.com
 
 **FFA** (Premium)
@@ -22,10 +21,21 @@
 - fusion-network.xyz
 - play.kchscraft.net (KitPvP)
 - mazerclub.com
-- alsmp.net (Crystal)
-- pizzasmp.lol (Crystal)
-- seapvp.mc-join.xyz (Crystal)
-- play.yezcraft.my.id (Crystal)
+
+**Crystal** (Premium)
+- seapvp.mc-join.xyz
+- as.catpvp.xyz
+
+**Crystal** (Cracked)
+- alsmp.net
+- pizzasmp.lol
+- play.yezcraft.my.id
+- mazerclub.com
+- asia.chickencraft.nl
+- play.anarchianetwork.com
+- fusion-network.xyz
+- play.kchscraft.net
+- thiccmc.com
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
