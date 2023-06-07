@@ -8,6 +8,7 @@
 - asia.chickencraft.nl
 - mazerclub.com
 - thiccmc.com
+- tares.vpsno.de
 
 **FFA** (Premium)
 - as.stray.gg
@@ -30,10 +31,6 @@
 - play.yezcraft.my.id
 - mazerclub.com
 - asia.chickencraft.nl
-- play.anarchianetwork.com
-- fusion-network.xyz
-- play.kchscraft.net
-- thiccmc.com
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
