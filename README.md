@@ -32,6 +32,8 @@
 - mazerclub.com
 - asia.chickencraft.nl
 
+Click [HERE](CRYSTALLFFA) for more.
+
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
 ## Discord
