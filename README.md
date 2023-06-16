@@ -31,8 +31,7 @@
 - play.yezcraft.my.id
 - mazerclub.com
 - asia.chickencraft.nl
-
-Click [HERE](CRYSTAL) for more.
+- luckynetwork.net (Duels)
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
