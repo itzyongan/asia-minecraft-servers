@@ -32,6 +32,7 @@
 - play.yezcraft.my.id
 - mazerclub.com
 - asia.chickencraft.nl
+- play.jacuzzicraft.xyz
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
