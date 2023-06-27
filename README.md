@@ -33,6 +33,7 @@
 - mazerclub.com
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
+- play.rizkynetwork.xyz
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
