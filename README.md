@@ -29,7 +29,6 @@
 **Crystal** (Cracked)
 - alsmp.net
 - pizzasmp.lol
-- yezcraft.net
 - mazerclub.com
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
