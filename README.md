@@ -30,6 +30,7 @@
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
 - play.rizkynetwork.xyz
+- fusion-network.xyz
 
 **NOTE:** Servers that aren't on this list are either not recommended or unknown.
 
