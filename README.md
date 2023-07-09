@@ -8,7 +8,6 @@
 - asia.chickencraft.nl
 - mazerclub.com
 - thiccmc.com
-- tares.vpsno.de
 - luckynetwork.net
 
 **FFA** (Premium)
