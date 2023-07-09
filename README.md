@@ -23,12 +23,10 @@
 - mazerclub.com
 
 **Crystal** (Premium)
-- seapvp.mc-join.xyz
 - as.catpvp.xyz
 
 **Crystal** (Cracked)
 - alsmp.net
-- pizzasmp.lol
 - mazerclub.com
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
