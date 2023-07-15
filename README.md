@@ -25,7 +25,6 @@
 - as.catpvp.xyz
 
 **Crystal** (Cracked)
-- alsmp.net
 - mazerclub.com
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
