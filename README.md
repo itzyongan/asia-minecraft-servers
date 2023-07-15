@@ -22,7 +22,7 @@
 - mazerclub.com
 
 **Crystal** (Premium)
-- as.catpvp.xyz
+- N/A
 
 **Crystal** (Cracked)
 - mazerclub.com
