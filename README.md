@@ -30,7 +30,7 @@
 - play.jacuzzicraft.xyz
 - play.rizkynetwork.xyz
 
-**NOTE:** Servers that aren't on this list are either not recommended or unknown.
+**NOTE:** Servers that are not on this list are either not recommended or have yet to be discovered.
 
 ## Discord
 Click [HERE](https://discord.gg/TTAgYjXmkh) to join my Discord server.
