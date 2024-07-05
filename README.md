@@ -1,4 +1,4 @@
-## Servers
+## SERVERS
 
 **Duels** (Premium)
 - as.catpvp.xyz
@@ -29,7 +29,7 @@
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
 
-**NOTE:** Servers that are not on this list are either not recommended or have yet to be discovered.
+## NOTE: Servers that are not on this list are either not recommended or have yet to be discovered.
 
 ## Discord
 Click [HERE](https://discord.gg/TTAgYjXmkh) to join my Discord server.
