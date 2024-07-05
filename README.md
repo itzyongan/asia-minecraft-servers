@@ -1,4 +1,4 @@
-## SERVERS
+## Servers
 
 **Duels** (Premium)
 - as.catpvp.xyz
