@@ -28,7 +28,6 @@
 - mazerclub.com
 - asia.chickencraft.nl
 - play.jacuzzicraft.xyz
-- play.rizkynetwork.xyz
 
 **NOTE:** Servers that are not on this list are either not recommended or have yet to be discovered.
 
