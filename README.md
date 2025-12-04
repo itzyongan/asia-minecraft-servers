@@ -1,23 +1,23 @@
-# Servers
+## Servers
 
-## Duels (Premium)
-- as.minemen.club
+### Duels (Premium)
 - as.catpvp.xyz
+- as.minemen.club
 
-## Duels (Cracked)
-- mazerclub.net
-- as.chickencraft.nl
+### Duels (Cracked)
 - as.acentramc.com
+- as.chickencraft.nl
+- mazerclub.net
 - nerdpvp.xyz
 - play.kchscraft.net
 
-## FFA (Premium)
+### FFA (Premium)
 - as.stray.gg
 
-## FFA (Cracked)
-- mazerclub.net
+### FFA (Cracked)
 - as.chickencraft.nl
-- play.kchscraft.net
 - fusion-network.xyz
+- mazerclub.net
+- play.kchscraft.net
 
 ## NOTE: Servers that are not on this list are either not recommended or have yet to be discovered.
