@@ -1,8 +1,8 @@
 ## Servers
 
 ### Duels (Premium)
-- as.catpvp.xyz
-- as.minemen.club
+- ⭐ as.catpvp.xyz
+- ⭐ as.minemen.club
 
 ### Duels (Cracked)
 - as.acentramc.com
@@ -12,7 +12,7 @@
 - play.kchscraft.net
 
 ### FFA (Premium)
-- as.stray.gg
+- ⭐ as.stray.gg
 
 ### FFA (Cracked)
 - as.chickencraft.nl
