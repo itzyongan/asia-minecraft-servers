@@ -19,5 +19,3 @@
 - fusion-network.xyz
 - mazerclub.net
 - play.kchscraft.net
-
-## NOTE: Servers that are not on this list are either not recommended or have yet to be discovered.
