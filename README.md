@@ -3,6 +3,7 @@
 **Duels** (Premium)
 - as.catpvp.xyz
 - as.minemen.club
+-
 
 **Duels** (Cracked)
 - play.kchscraft.net
