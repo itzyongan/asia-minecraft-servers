@@ -14,7 +14,7 @@
 - as.stray.gg
 
 **FFA** (Cracked)
-= play.kchscraft.net
+- play.kchscraft.net
 - asia.chickencraft.nl
 - fusion-network.xyz
 - mazerclub.net
