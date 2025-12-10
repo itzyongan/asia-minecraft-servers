@@ -10,6 +10,7 @@
 - mazerclub.net
 - nerdpvp.xyz
 - play.kchscraft.net
+- play.pinoy-craft.com
 
 ### FFA (Premium)
 - ⭐ as.stray.gg
@@ -21,3 +22,5 @@
 - mazerclub.net
 - minesive.com
 - play.kchscraft.net
+- mc.vncraft.asia
+- play.pinoy-craft.com|
