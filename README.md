@@ -7,23 +7,22 @@
 ### Duels (Cracked)
 - ⭐ as.acentramc.com
 - as.chickencraft.nl
+- gamertee.net
 - mazerclub.net
-- nerdpvp.xyz
 - play.kchscraft.net
 - play.pinoy-craft.com
-- gamertee.net
 
 ### FFA (Premium)
 - ⭐ as.stray.gg
 
 ### FFA (Cracked)
 - as.acentramc.com
-- swiftsmp.net
-- fusion-network.xyz
 - as.chickencraft.nl
+- fusion-network.xyz
+- gamertee.net
 - mazerclub.net
+- mc.vncraft.asia
 - minesive.com
 - play.kchscraft.net
-- mc.vncraft.asia
 - play.pinoy-craft.com
-- gamertee.net
+- swiftsmp.net
