@@ -5,7 +5,7 @@
 - ⭐ as.minemen.club
 
 ### Duels (Cracked)
-- as.acentramc.com
+- ⭐ as.acentramc.com
 - as.chickencraft.nl
 - mazerclub.net
 - nerdpvp.xyz
@@ -17,6 +17,7 @@
 - ⭐ as.stray.gg
 
 ### FFA (Cracked)
+- as.acentramc.com
 - swiftsmp.net
 - fusion-network.xyz
 - as.chickencraft.nl
