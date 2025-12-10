@@ -11,6 +11,7 @@
 - nerdpvp.xyz
 - play.kchscraft.net
 - play.pinoy-craft.com
+- gamertee.net
 
 ### FFA (Premium)
 - ⭐ as.stray.gg
@@ -23,4 +24,5 @@
 - minesive.com
 - play.kchscraft.net
 - mc.vncraft.asia
-- play.pinoy-craft.com|
+- play.pinoy-craft.com
+- gamertee.net
