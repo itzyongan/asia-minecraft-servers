@@ -17,8 +17,8 @@
 
 ### FFA (Cracked)
 - ⭐ swiftsmp.net
+- ⭐ fusion-network.xyz
 - as.chickencraft.nl
-- fusion-network.xyz
 - mazerclub.net
 - minesive.com
 - play.kchscraft.net
