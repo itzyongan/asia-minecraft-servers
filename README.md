@@ -19,5 +19,6 @@
 - as.chickencraft.nl
 - fusion-network.xyz
 - mazerclub.net
+- minesive.com
 - play.kchscraft.net
 - play.pinoy-craft.com
