@@ -17,8 +17,8 @@
 - ⭐ as.stray.gg
 
 ### FFA (Cracked)
-- ⭐ swiftsmp.net
-- ⭐ fusion-network.xyz
+- swiftsmp.net
+- fusion-network.xyz
 - as.chickencraft.nl
 - mazerclub.net
 - minesive.com
