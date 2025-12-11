@@ -6,7 +6,7 @@
 - mcpvp.club
 
 ### Duels (Cracked)
-- ⭐ as.acentramc.com
+- as.acentramc.com
 - as.chickencraft.nl
 - gamertee.net
 - mazerclub.net
