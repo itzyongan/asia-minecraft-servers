@@ -6,7 +6,7 @@
 - mcpvp.club
 
 ### Duels (Cracked)
-- ⭐ tcp.acentramc.com
+- tcp.acentramc.com
 - as.chickencraft.nl
 - gamertee.net
 - mazerclub.net
@@ -17,11 +17,11 @@
 - ⭐ as.stray.gg
 
 ### FFA (Cracked)
-- as.acentramc.com
+- ⭐ mazerclub.net
+- tcp.acentramc.com
 - as.chickencraft.nl
 - fusion-network.xyz
 - gamertee.net
-- mazerclub.net
 - mc.vncraft.asia
 - minesive.com
 - play.kchscraft.net
