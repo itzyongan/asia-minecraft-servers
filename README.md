@@ -2,11 +2,11 @@
 
 ### Duels (Premium)
 - ⭐ as.catpvp.xyz
-- ⭐ as.minemen.club
+- as.minemen.club
 - mcpvp.club
 
 ### Duels (Cracked)
-- as.acentramc.com
+- ⭐ tcp.acentramc.com
 - as.chickencraft.nl
 - gamertee.net
 - mazerclub.net
