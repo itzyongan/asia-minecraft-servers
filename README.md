@@ -1,13 +1,14 @@
-## Servers
+# Servers
 **Emoji Legend**
+
 ⭐ Recommendations
 
-### Duels (Premium)
+## Duels (Premium)
 - ⭐ as.catpvp.xyz
 - as.minemen.club
 - mcpvp.club
 
-### Duels (Cracked)
+## Duels (Cracked)
 - tcp.acentramc.com
 - as.chickencraft.nl
 - gamertee.net
@@ -15,10 +16,10 @@
 - play.kchscraft.net
 - play.pinoy-craft.com
 
-### FFA (Premium)
+## FFA (Premium)
 - ⭐ as.stray.gg
 
-### FFA (Cracked)
+## FFA (Cracked)
 - ⭐ mazerclub.net
 - tcp.acentramc.com
 - as.chickencraft.nl
