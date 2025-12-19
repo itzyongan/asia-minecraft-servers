@@ -1,5 +1,5 @@
 ## Servers
-### Emoji Legend
+**Emoji Legend**
 ⭐ Recommendations
 
 ### Duels (Premium)
