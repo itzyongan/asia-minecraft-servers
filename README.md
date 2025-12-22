@@ -9,7 +9,6 @@
 
 ## Duels (Cracked)
 - as.acentramc.com, alt.acentramc.com, tcp.acentramc.com
-- as.chickencraft.nl
 - gamertee.net
 - mazerclub.net
 - staticpvp.fun
@@ -20,7 +19,6 @@
 ## FFA (Cracked)
 - ⭐ mazerclub.net
 - tcp.acentramc.com
-- as.chickencraft.nl
 - fusion-network.xyz
 - gamertee.net
 - mc.vncraft.asia
