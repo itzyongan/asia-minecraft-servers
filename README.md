@@ -11,19 +11,19 @@
 - as.acentramc.com, alt.acentramc.com, tcp.acentramc.com
 - gamertee.net
 - mazerclub.net
-- staticpvp.fun
 - play.haidernetwork.fun
+- staticpvp.fun
 
 ## FFA (Premium)
 - ⭐ as.stray.gg
 
 ## FFA (Cracked)
 - ⭐ mazerclub.net
-- tcp.acentramc.com
 - fusion-network.xyz
 - gamertee.net
 - mc.vncraft.asia
 - minesive.com
-- swiftsmp.net
-- staticpvp.fun
 - play.haidernetwork.fun
+- staticpvp.fun
+- swiftsmp.net
+- as.acentramc.com, alt.acentramc.com, tcp.acentramc.com
