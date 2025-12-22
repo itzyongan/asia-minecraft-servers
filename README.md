@@ -12,8 +12,6 @@
 - as.chickencraft.nl
 - gamertee.net
 - mazerclub.net
-- play.kchscraft.net
-- play.pinoy-craft.com
 - staticpvp.fun
 
 ## FFA (Premium)
@@ -27,7 +25,5 @@
 - gamertee.net
 - mc.vncraft.asia
 - minesive.com
-- play.kchscraft.net
-- play.pinoy-craft.com
 - swiftsmp.net
 - staticpvp.fun
