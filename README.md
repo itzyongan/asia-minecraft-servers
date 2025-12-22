@@ -14,6 +14,7 @@
 - mazerclub.net
 - play.kchscraft.net
 - play.pinoy-craft.com
+- staticpvp.fun
 
 ## FFA (Premium)
 - ⭐ as.stray.gg
@@ -29,3 +30,4 @@
 - play.kchscraft.net
 - play.pinoy-craft.com
 - swiftsmp.net
+- staticpvp.fun
