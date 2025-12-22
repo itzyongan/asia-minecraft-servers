@@ -12,6 +12,7 @@
 - gamertee.net
 - mazerclub.net
 - staticpvp.fun
+- play.haidernetwork.fun
 
 ## FFA (Premium)
 - ⭐ as.stray.gg
@@ -25,3 +26,4 @@
 - minesive.com
 - swiftsmp.net
 - staticpvp.fun
+- play.haidernetwork.fun
