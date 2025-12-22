@@ -1,7 +1,6 @@
 # Servers
-**Emoji Legend**
 
-⭐ Recommendations
+⭐ = Recommendations
 
 ## Duels (Premium)
 - ⭐ as.catpvp.xyz
