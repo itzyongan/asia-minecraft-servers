@@ -3,12 +3,12 @@
 ⭐ = Recommendations
 
 ## Duels (Premium)
-- ⭐ as.catpvp.xyz, as2.catpvp.xyz, as3.catpvp.xyz
+- ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
-- mcpvp.club
+- ⭐ mcpvp.club
 
 ## Duels (Cracked)
-- as.acentramc.com, alt.acentramc.com, tcp.acentramc.com
+- as.acentramc.com
 - gamertee.net
 - mazerclub.net
 - play.haidernetwork.fun
@@ -18,7 +18,7 @@
 - ⭐ as.stray.gg
 
 ## FFA (Cracked)
-- ⭐ mazerclub.net
+- mazerclub.net
 - fusion-network.xyz
 - gamertee.net
 - mc.vncraft.asia
@@ -26,4 +26,4 @@
 - play.haidernetwork.fun
 - staticpvp.fun
 - swiftsmp.net
-- as.acentramc.com, alt.acentramc.com, tcp.acentramc.com
+- as.acentramc.com
