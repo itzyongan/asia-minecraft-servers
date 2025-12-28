@@ -1,23 +1,23 @@
-# Servers
+## Servers
 
 ⭐ = Recommendations
 
-## Duels (Premium)
+### Duels (Premium)
 - ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
 - mcpvp.club
 
-## Duels (Cracked)
+### Duels (Cracked)
 - as.acentramc.com
 - gamertee.net
 - mazerclub.net
 - play.haidernetwork.fun
 - staticpvp.fun
 
-## FFA (Premium)
+### FFA (Premium)
 - ⭐ as.stray.gg
 
-## FFA (Cracked)
+### FFA (Cracked)
 - mazerclub.net
 - fusion-network.xyz
 - gamertee.net
