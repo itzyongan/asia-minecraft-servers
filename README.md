@@ -5,7 +5,7 @@
 ## Duels (Premium)
 - ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
-- ⭐ mcpvp.club
+- mcpvp.club
 
 ## Duels (Cracked)
 - as.acentramc.com
