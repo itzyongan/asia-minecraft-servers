@@ -1,7 +1,5 @@
 ## Servers
 
-⭐ = Recommendations
-
 ### Duels (Premium)
 - ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
