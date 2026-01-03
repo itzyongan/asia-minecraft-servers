@@ -27,3 +27,7 @@
 - staticpvp.fun
 - swiftsmp.net
 - as.acentramc.com
+
+## Support
+If you have any questions or issues you can contact me via Discord.
+https://discord.gg/TTAgYjXmkh
