@@ -5,6 +5,7 @@
 - mcpvp.club
 
 ### Duels (Cracked)
+- staticpvp.fun
 - as.acentramc.com
 - gamertee.net
 - mazerclub.net
@@ -15,6 +16,7 @@
 - ⭐ as.stray.gg
 
 ### FFA (Cracked)
+- staticpvp.fun
 - mazerclub.net
 - fusion-network.xyz
 - gamertee.net
