@@ -7,7 +7,7 @@
 ### Duels (Cracked)
 - staticpvp.fun
 - as.metalmc.vip
-- as.acentramc.com
+- tcp.acentramc.com
 - gamertee.net
 - mazerclub.net
 - play.haidernetwork.fun
@@ -26,7 +26,7 @@
 - play.haidernetwork.fun
 - staticpvp.fun
 - swiftsmp.net
-- as.acentramc.com
+- tcp.acentramc.com
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.
