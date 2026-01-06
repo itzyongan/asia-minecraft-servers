@@ -6,6 +6,7 @@
 
 ### Duels (Cracked)
 - staticpvp.fun
+- as.metalmc.vip
 - as.acentramc.com
 - gamertee.net
 - mazerclub.net
