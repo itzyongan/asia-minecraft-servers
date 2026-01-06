@@ -8,10 +8,7 @@
 ### Duels (Cracked)
 - staticpvp.fun
 - tcp.acentramc.com
-- gamertee.net
 - mazerclub.net
-- play.haidernetwork.fun
-- staticpvp.fun
 
 ### FFA (Premium)
 - ⭐ as.stray.gg
@@ -23,7 +20,6 @@
 - gamertee.net
 - mc.vncraft.asia
 - minesive.com
-- play.haidernetwork.fun
 - staticpvp.fun
 - swiftsmp.net
 - tcp.acentramc.com
