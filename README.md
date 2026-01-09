@@ -3,7 +3,6 @@
 - ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
 - as.mcpvp.club
-- as.metalmc.vip
 
 ### Duels (Cracked)
 - staticpvp.fun
