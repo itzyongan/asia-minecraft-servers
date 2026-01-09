@@ -13,10 +13,10 @@
 - ⭐ as.stray.gg
 
 ### FFA (Cracked)
+- ⭐ mazerclub.net
+- ⭐ swiftsmp.net
 - staticpvp.fun
-- mazerclub.net
 - fusion-network.xyz
-- swiftsmp.net
 - tcp.acentramc.com
 
 ## Support
