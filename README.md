@@ -16,7 +16,6 @@
 - staticpvp.fun
 - mazerclub.net
 - fusion-network.xyz
-- minesive.com
 - swiftsmp.net
 - tcp.acentramc.com
 
