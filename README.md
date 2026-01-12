@@ -1,7 +1,7 @@
 ## Servers
 ### Duels (Premium)
 - ⭐ as.catpvp.xyz
-- as.minemen.club
+- ⭐ as.minemen.club
 - as.mcpvp.club
 
 ### Duels (Cracked)
@@ -14,8 +14,8 @@
 - play.cubecraft.net
 
 ### FFA (Cracked)
-- ⭐ mazerclub.net
-- ⭐ swiftsmp.net
+- mazerclub.net
+- swiftsmp.net
 - staticpvp.fun
 - fusion-network.xyz
 - as.acentramc.com
