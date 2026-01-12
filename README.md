@@ -6,7 +6,7 @@
 
 ### Duels (Cracked)
 - staticpvp.fun
-- tcp.acentramc.com
+- as.acentramc.com
 - mazerclub.net
 
 ### FFA (Premium)
@@ -18,7 +18,7 @@
 - ⭐ swiftsmp.net
 - staticpvp.fun
 - fusion-network.xyz
-- tcp.acentramc.com
+- as.acentramc.com
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.
