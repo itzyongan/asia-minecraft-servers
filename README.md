@@ -3,6 +3,7 @@
 - ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
 - as.mcpvp.club
+- as.strikemc.net
 
 ### Duels (Cracked)
 - staticpvp.fun
@@ -11,13 +12,15 @@
 
 ### FFA (Premium)
 - ⭐ as.stray.gg
+- as.catpvp.xyz
+- as.strikemc.net
 - play.cubecraft.net
 
 ### FFA (Cracked)
 - mazerclub.net
 - swiftsmp.net
 - staticpvp.fun
-- fusion-network.xyz
+- as.fusion-network.xyz
 - as.acentramc.com
 
 ## Support
