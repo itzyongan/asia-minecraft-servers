@@ -20,9 +20,9 @@
 ### FFA (Cracked)
 - as.acentramc.com
 - as.fusion-network.xyz
+- as.swiftsmp.net
 - mazerclub.net
 - staticpvp.fun
-- swiftsmp.net
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.
