@@ -2,8 +2,9 @@
 ### Duels (Premium)
 - ⭐ as.catpvp.xyz
 - ⭐ as.minemen.club
-- as.mcpvp.club
+- ⭐ as.mcpvp.club
 - as.strikemc.net
+- as.metalmc.vip
 
 ### Duels (Cracked)
 - staticpvp.fun
