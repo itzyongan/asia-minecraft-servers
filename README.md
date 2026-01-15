@@ -15,7 +15,6 @@
 - ⭐ as.stray.gg
 - as.catpvp.xyz
 - as.strikemc.net
-- play.cubecraft.net
 
 ### FFA (Cracked)
 - as.acentramc.com
