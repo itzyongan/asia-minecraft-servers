@@ -7,7 +7,9 @@
 🟢 as.meowmc.fun 🇸🇬  
 🟢 as.metalmc.vip 🇸🇬  
 🟢 as.strikemc.net 🇸🇬  
+🟢 as.xylon.gg 🇸🇬  
 🟢 pvpconnect.xyz 🇰🇷  
+🟢 xyrismc.fun 🇮🇳  
 
 ### Duels (Cracked)
 🟢 as.acentramc.com 🇸🇬  
@@ -20,6 +22,7 @@
 🟢 as.meowmc.fun 🇸🇬  
 🟢 as.strikemc.net 🇸🇬  
 🟢 pvpconnect.xyz 🇰🇷  
+🟢 xyrismc.fun 🇮🇳  
 
 ### FFA (Cracked)
 🟢 as.acentramc.com 🇸🇬  
@@ -30,4 +33,4 @@
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.  
-https://discord.gg/TTAgYjXmkh
+https://discord.gg/TTAgYjX
