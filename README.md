@@ -31,13 +31,10 @@
 🟡 as.acentramc.com 🇸🇬
 🟡 staticpvp.fun 🇸🇬
 
-⭐ Highly recommended servers and community favorites.
-
-🟢 Fully operational servers with active players.
-
-🟡 Operational, but may have low activity.
-
-🔴 Not recommended—best to avoid playing.
+⭐ **Highly recommended** servers and community favorites.
+🟢 **Fully operational** servers with active players.
+🟡 **Operational**, but may have low activity.
+🔴 **Not recommended**—best to avoid playing.
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.
