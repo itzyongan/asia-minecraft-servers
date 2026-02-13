@@ -34,7 +34,7 @@
 ### Legend
 - ⭐ **Highly recommended** servers and community favorites.
 - 🟢 **Fully operational** servers with active players.
-- 🟡 **Operational**, but may have low quality or active players.
+- 🟡 **Operational**, but may have lower quality or fewer active players.
 - 🔴 **Not recommended**—best to avoid playing.
 
 ## Support
