@@ -32,8 +32,11 @@
 🟡 staticpvp.fun 🇸🇬
 
 ⭐ Highly recommended servers and community favorites.
-🟢 Fully operational servers with active players and responsive staff.
-🟡 Operational, but may have low activity, inactive staff, or weak anti-cheat.
+
+🟢 Fully operational servers with active players.
+
+🟡 Operational, but may have low activity.
+
 🔴 Not recommended—best to avoid playing.
 
 ## Support
