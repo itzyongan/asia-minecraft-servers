@@ -3,8 +3,10 @@
 - ⭐ as.catpvp.xyz
 - ⭐ as.mcpvp.club
 - ⭐ as.minemen.club
+- as.meowmc.fun
 - as.metalmc.vip
 - as.strikemc.net
+- pvpconnect.xyz 🇰🇷
 
 ### Duels (Cracked)
 - as.acentramc.com
@@ -14,7 +16,9 @@
 ### FFA (Premium)
 - ⭐ as.stray.gg
 - as.catpvp.xyz
+- as.meowmc.fun
 - as.strikemc.net
+- pvpconnect.xyz 🇰🇷
 
 ### FFA (Cracked)
 - as.acentramc.com
