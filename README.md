@@ -1,4 +1,4 @@
-## AS Servers
+## AS Servers ⚔️
 
 ### Duels (Premium)
 ⭐ as.catpvp.xyz 🇸🇬  
