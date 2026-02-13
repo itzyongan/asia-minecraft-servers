@@ -1,9 +1,10 @@
-# AS Servers ⚔️
+# 🌏 AS Servers
 
-## Duels (Premium)
+## Premium
 - ⭐ `as.catpvp.xyz` 🇸🇬
 - ⭐ `as.mcpvp.club` 🇸🇬
 - ⭐ `as.minemen.club` 🇸🇬
+- ⭐ `as.stray.gg` 🇸🇬
 - 🟢 `as.meowmc.fun` 🇸🇬
 - 🟢 `pvpconnect.xyz` 🇰🇷
 - 🟡 `as.metalmc.vip` 🇸🇬
@@ -11,24 +12,11 @@
 - 🟡 `as.xylon.gg` 🇸🇬
 - 🟡 `xyrismc.fun` 🇮🇳
 
-## Duels (Cracked)
-- 🟡 `as.acentramc.com` 🇸🇬
-- 🟡 `mazerclub.net` 🇸🇬
-- 🟡 `staticpvp.fun` 🇸🇬
-
-## FFA (Premium)
-- ⭐ `as.stray.gg` 🇸🇬
-- 🟡 `as.meowmc.fun` 🇸🇬
-- 🟡 `pvpconnect.xyz` 🇰🇷
-- 🟡 `as.catpvp.xyz` 🇸🇬
-- 🟡 `as.strikemc.net` 🇸🇬
-- 🟡 `xyrismc.fun` 🇮🇳
-
-## FFA (Cracked)
+## ⚔️ Cracked
 - 🟢 `as.fusion-network.xyz` 🇸🇬
 - 🟢 `as.swiftsmp.net` 🇸🇬
-- 🟢 `mazerclub.net` 🇸🇬
 - 🟡 `as.acentramc.com` 🇸🇬
+- 🟡 `mazerclub.net` 🇸🇬
 - 🟡 `staticpvp.fun` 🇸🇬
 
 ## Legend
