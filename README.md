@@ -1,33 +1,33 @@
 ## Servers
 
 ### Duels (Premium)
-`-` ⭐ as.catpvp.xyz 🇸🇬
-`-` ⭐ as.mcpvp.club 🇸🇬
-`-` ⭐ as.minemen.club 🇸🇬
-`-` as.meowmc.fun 🇸🇬
-`-` as.metalmc.vip 🇸🇬
-`-` as.strikemc.net 🇸🇬
-`-` pvpconnect.xyz 🇰🇷
+⭐ as.catpvp.xyz 🇸🇬  
+⭐ as.mcpvp.club 🇸🇬  
+⭐ as.minemen.club 🇸🇬  
+🟢 as.meowmc.fun 🇸🇬  
+🟢 as.metalmc.vip 🇸🇬  
+🟢 as.strikemc.net 🇸🇬  
+🟢 pvpconnect.xyz 🇰🇷  
 
 ### Duels (Cracked)
-`-` as.acentramc.com 🇸🇬
-`-` mazerclub.net 🇸🇬
-`-` staticpvp.fun 🇸🇬
+🟢 as.acentramc.com 🇸🇬  
+🟢 mazerclub.net 🇸🇬  
+🟢 staticpvp.fun 🇸🇬  
 
 ### FFA (Premium)
-`-` as.catpvp.xyz 🇸🇬
-`-` as.meowmc.fun 🇸🇬
-`-` ⭐ as.stray.gg 🇸🇬
-`-` as.strikemc.net 🇸🇬
-`-` pvpconnect.xyz 🇰🇷
+⭐ as.stray.gg 🇸🇬  
+🟢 as.catpvp.xyz 🇸🇬  
+🟢 as.meowmc.fun 🇸🇬  
+🟢 as.strikemc.net 🇸🇬  
+🟢 pvpconnect.xyz 🇰🇷  
 
 ### FFA (Cracked)
-`-` as.acentramc.com 🇸🇬
-`-` as.fusion-network.xyz 🇸🇬
-`-` as.swiftsmp.net 🇸🇬
-`-` mazerclub.net 🇸🇬
-`-` staticpvp.fun 🇸🇬
+🟢 as.acentramc.com 🇸🇬  
+🟢 as.fusion-network.xyz 🇸🇬  
+🟢 as.swiftsmp.net 🇸🇬  
+🟢 mazerclub.net 🇸🇬  
+🟢 staticpvp.fun 🇸🇬  
 
 ## Support
-If you have any questions or issues, you can contact me via Discord.
+If you have any questions or issues, you can contact me via Discord.  
 https://discord.gg/TTAgYjXmkh
