@@ -18,8 +18,8 @@
 
 ### FFA (Premium)
 - ⭐ as.stray.gg 🇸🇬
-- 🟢 as.meowmc.fun 🇸🇬
-- 🟢 pvpconnect.xyz 🇰🇷
+- 🟡 as.meowmc.fun 🇸🇬
+- 🟡 pvpconnect.xyz 🇰🇷
 - 🟡 as.catpvp.xyz 🇸🇬
 - 🟡 as.strikemc.net 🇸🇬
 - 🟡 xyrismc.fun 🇮🇳
@@ -32,10 +32,10 @@
 - 🟡 staticpvp.fun 🇸🇬
 
 ### Legend
-- ⭐ **Highly recommended** servers and community favorites.
-- 🟢 **Fully operational** servers with active players.
-- 🟡 **Operational**, but may have lower quality or fewer active players.
-- 🔴 **Not recommended**—best to avoid playing.
+- ⭐ Top Pick
+- 🟢 Approved
+- 🟡 Playable
+- 🔴 Avoid
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.
