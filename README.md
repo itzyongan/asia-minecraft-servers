@@ -1,6 +1,6 @@
 ## Servers
 ### Duels (Premium)
-- ⭐ as.catpvp.xyz
+`-` ⭐ as.catpvp.xyz
 - ⭐ as.mcpvp.club
 - ⭐ as.minemen.club
 - as.meowmc.fun
