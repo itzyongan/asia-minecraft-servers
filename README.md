@@ -12,7 +12,7 @@
 - 🟡 `as.xylon.gg` 🇸🇬
 - 🟡 `xyrismc.fun` 🇮🇳
 
-## ⚔️ Cracked
+## Cracked
 - 🟢 `as.fusion-network.xyz` 🇸🇬
 - 🟢 `as.swiftsmp.net` 🇸🇬
 - 🟡 `as.acentramc.com` 🇸🇬
