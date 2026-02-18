@@ -17,7 +17,6 @@
 - as.acentramc.com 🇸🇬
 - as.chickencraft.nl 🇸🇬
 - as.fusion-network.xyz 🇸🇬
-- as.leafpvp.icu 🇸🇬
 - as.serenitypvp.net 🇸🇬
 - as.swiftsmp.net 🇸🇬
 - friendlymc.vip 🇸🇬
@@ -26,6 +25,7 @@
 - minesive.com 🇸🇬
 - romdoulmc.vip 🇸🇬
 - staticpvp.fun 🇸🇬
+- as.leafpvp.icu 🇻🇳
 
 ## Legend
 - ⭐ Top Picks
