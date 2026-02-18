@@ -1,6 +1,6 @@
-# 🌏 AS Servers
+## 🌏 AS Servers
 
-## Premium
+### Premium
 - ⭐ as.catpvp.xyz 🇸🇬
 - ⭐ as.mcpvp.club 🇸🇬
 - ⭐ as.minemen.club 🇸🇬
@@ -13,7 +13,7 @@
 - pvpconnect.xyz 🇰🇷
 - xyrismc.fun 🇮🇳
 
-## Cracked
+### Cracked
 - as.acentramc.com 🇸🇬
 - as.chickencraft.nl 🇸🇬
 - as.fusion-network.xyz 🇸🇬
@@ -27,9 +27,9 @@
 - romdoulmc.vip 🇸🇬
 - staticpvp.fun 🇸🇬
 
-## Legend
+### Legend
 - ⭐ Top Picks
 
-# Support
+## Support
 If you have any questions or issues, you can contact me via Discord.
 https://discord.gg/TTAgYjXmkh
