@@ -6,16 +6,16 @@
 - ⭐ as.minemen.club 🇸🇬
 - ⭐ as.stray.gg 🇸🇬
 - as.meowmc.fun 🇸🇬
-- pvpconnect.xyz 🇰🇷
 - as.metalmc.vip 🇸🇬
 - as.strikemc.net 🇸🇬
 - as.xylon.gg 🇸🇬
+- pvpconnect.xyz 🇰🇷
 - xyrismc.fun 🇮🇳
 
 ## Cracked
+- as.acentramc.com 🇸🇬
 - as.fusion-network.xyz 🇸🇬
 - as.swiftsmp.net 🇸🇬
-- as.acentramc.com 🇸🇬
 - mazerclub.net 🇸🇬
 - staticpvp.fun 🇸🇬
 
