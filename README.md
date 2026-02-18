@@ -9,14 +9,21 @@
 - as.metalmc.vip 🇸🇬
 - as.strikemc.net 🇸🇬
 - as.xylon.gg 🇸🇬
+- asiaprac.xyz 🇸🇬
 - pvpconnect.xyz 🇰🇷
 - xyrismc.fun 🇮🇳
 
 ## Cracked
 - as.acentramc.com 🇸🇬
+- as.chickencraft.nl 🇸🇬
 - as.fusion-network.xyz 🇸🇬
+- as.leafpvp.icu 🇸🇬
+- as.serenitypvp.net 🇸🇬
 - as.swiftsmp.net 🇸🇬
+- friendlymc.vip 🇸🇬
+- gamertee.net 🇸🇬
 - mazerclub.net 🇸🇬
+- minesive.com 🇸🇬
 - staticpvp.fun 🇸🇬
 
 ## Legend
