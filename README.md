@@ -30,6 +30,6 @@
 ### Legend
 - ⭐ Top Picks
 
-## Support
+### Support
 If you have any questions or issues, you can contact me via Discord.
 https://discord.gg/TTAgYjXmkh
