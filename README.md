@@ -1,35 +1,38 @@
 ## 🌏 AS Servers
 
-### Premium
-- ⭐ as.catpvp.xyz 🇸🇬
-- ⭐ as.mcpvp.club 🇸🇬
-- ⭐ as.minemen.club 🇸🇬
-- ⭐ as.stray.gg 🇸🇬
-- as.meowmc.fun 🇸🇬
-- as.metalmc.vip 🇸🇬
-- as.strikemc.net 🇸🇬
-- as.xylon.gg 🇸🇬
-- asiaprac.xyz 🇸🇬
-- pvpconnect.xyz 🇰🇷
-- xyrismc.fun 🇮🇳
+### ⭐ Legend
+- ⭐ = Top Picks
 
-### Cracked
-- as.acentramc.com 🇸🇬
-- as.chickencraft.nl 🇸🇬
-- as.fusion-network.xyz 🇸🇬
-- as.serenitypvp.net 🇸🇬
-- as.swiftsmp.net 🇸🇬
-- friendlymc.vip 🇸🇬
-- gamertee.net 🇸🇬
-- mazerclub.net 🇸🇬
-- minesive.com 🇸🇬
-- romdoulmc.vip 🇸🇬
-- staticpvp.fun 🇸🇬
-- as.leafpvp.icu 🇻🇳
+### 💎 Premium
+- ⭐ as.catpvp.xyz 🇸🇬  
+- ⭐ as.mcpvp.club 🇸🇬  
+- ⭐ as.minemen.club 🇸🇬  
+- ⭐ as.stray.gg 🇸🇬  
+- as.meowmc.fun 🇸🇬  
+- as.metalmc.vip 🇸🇬  
+- as.strikemc.net 🇸🇬  
+- as.xylon.gg 🇸🇬  
+- asiaprac.xyz 🇸🇬  
+- pvpconnect.xyz 🇰🇷  
+- xyrismc.fun 🇮🇳  
 
-### Legend
-⭐ Top Picks
+### 🔓 Cracked
+- as.acentramc.com 🇸🇬  
+- as.chickencraft.nl 🇸🇬  
+- as.fusion-network.xyz 🇸🇬  
+- as.serenitypvp.net 🇸🇬  
+- as.swiftsmp.net 🇸🇬  
+- friendlymc.vip 🇸🇬  
+- gamertee.net 🇸🇬  
+- mazerclub.net 🇸🇬  
+- minesive.com 🇸🇬  
+- romdoulmc.vip 🇸🇬  
+- staticpvp.fun 🇸🇬  
+- as.leafpvp.icu 🇻🇳  
 
-## Support
-If you have any questions or issues, you can contact me via Discord.
-https://discord.gg/TTAgYjXmkh
+### 🤝 Contribute
+Open a pull request or contact me on Discord to suggest new servers.
+
+### 💬 Support
+If you have any questions or issues, contact me on Discord:  
+👉 https://discord.gg/TTAgYjXmkh
