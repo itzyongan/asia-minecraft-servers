@@ -28,7 +28,7 @@
 - as.leafpvp.icu 🇻🇳
 
 ### Legend
-- ⭐ Top Picks
+⭐ Top Picks
 
 ## Support
 If you have any questions or issues, you can contact me via Discord.
