@@ -1,8 +1,8 @@
-## 🌏 AS Servers
+# 🌏 AS Servers
 
 - ⭐ = Top Picks
 
-### 💎 Premium Servers
+## 💎 Premium Servers
 | Server Address | Country | Note |
 |--------|---------|------|
 | ⭐ as.catpvp.xyz | 🇸🇬 |  |
@@ -17,7 +17,7 @@
 | xyrismc.fun | 🇮🇳 |  |
 | pvpconnect.xyz | 🇰🇷 |  |
 
-### 🔓 Cracked Servers
+## 🔓 Cracked Servers
 | Server Address | Country | Note |
 |--------|---------|------|
 | as.acentramc.com | 🇸🇬 |  |
@@ -33,8 +33,8 @@
 | staticpvp.fun | 🇸🇬 |  |
 | as.leafpvp.icu | 🇻🇳 |  |
 
-### 🤝 Contribute
+## 🤝 Contribute
 Open a pull request or join my [Discord server](https://discord.gg/TTAgYjXmkh) to suggest new servers.
 
-### 💬 Support
+## 💬 Support
 If you have any questions or issues, join my [Discord server](https://discord.gg/TTAgYjXmkh).
