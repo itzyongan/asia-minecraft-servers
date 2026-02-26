@@ -3,7 +3,7 @@
 - #### ⭐ = Top Picks
 
 ### 💎 Premium Servers
-| Server | Country |
+| Server Address | Country |
 |--------|---------|
 | ⭐ as.catpvp.xyz | 🇸🇬 |
 | ⭐ as.mcpvp.club | 🇸🇬 |
