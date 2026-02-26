@@ -7,33 +7,33 @@
 ## 💎 Premium Servers
 | Server Address | FFA | Duels | Location |
 |--------|-----|-------|---------|
-| ⭐ as.catpvp.xyz | - | - | 🇸🇬 |
-| ⭐ as.mcpvp.club | - | - | 🇸🇬 |
-| ⭐ as.minemen.club | - | - | 🇸🇬 |
-| ⭐ as.stray.gg | - | - | 🇸🇬 |
-| as.meowmc.fun | - | - | 🇸🇬 |
-| as.metalmc.vip | - | - | 🇸🇬 |
-| as.strikemc.net | - | - | 🇸🇬 |
+| ⭐ as.catpvp.xyz | - | ✅ | 🇸🇬 |
+| ⭐ as.mcpvp.club | - | ✅ | 🇸🇬 |
+| ⭐ as.minemen.club | - | ✅ | 🇸🇬 |
+| ⭐ as.stray.gg | ✅ | - | 🇸🇬 |
+| as.meowmc.fun | - | ✅ | 🇸🇬 |
+| as.metalmc.vip | - | ✅ | 🇸🇬 |
+| as.strikemc.net | - | ✅ | 🇸🇬 |
 | as.xylon.gg | - | - | 🇸🇬 |
 | asiaprac.xyz | - | - | 🇸🇬 |
-| xyrismc.fun | - | - | 🇮🇳 |
-| pvpconnect.xyz | - | - | 🇰🇷 |
+| xyrismc.fun | - | ✅ | 🇮🇳 |
+| pvpconnect.xyz | ✅ | ✅ | 🇰🇷 |
 
-## 🔓 Cracked Servers
+## 🔓 Cracked Serverss
 | Server Address | FFA | Duels | Location |
 |--------|-----|-------|---------|
-| as.acentramc.com | - | - | 🇸🇬 |
-| as.chickencraft.nl | - | - | 🇸🇬 |
+| as.acentramc.com | ✅ | ✅ | 🇸🇬 |
+| as.chickencraft.nl | - | ✅ | 🇸🇬 |
 | as.serenitypvp.net | - | - | 🇸🇬 |
-| as.swiftsmp.net | - | - | 🇸🇬 |
-| friendlymc.vip | - | - | 🇸🇬 |
-| fusion-network.xyz | - | - | 🇸🇬 |
-| gamertee.net | - | - | 🇸🇬 |
-| mazerclub.net | - | - | 🇸🇬 |
-| minesive.com | - | - | 🇸🇬 |
-| romdoulmc.vip | - | - | 🇸🇬 |
-| staticpvp.fun | - | - | 🇸🇬 |
-| as.leafpvp.icu | - | - | 🇻🇳 |
+| as.swiftsmp.net | - | ✅ | 🇸🇬 |
+| friendlymc.vip | - | ✅ | 🇸🇬 |
+| fusion-network.xyz | ✅ | - | 🇸🇬 |
+| gamertee.net | - | ✅ | 🇸🇬 |
+| mazerclub.net | ✅ | ✅ | 🇸🇬 |
+| minesive.com | ✅ | - | 🇸🇬 |
+| romdoulmc.vip | - | ✅ | 🇸🇬 |
+| staticpvp.fun | - | ✅ | 🇸🇬 |
+| as.leafpvp.icu | - | ✅ | 🇻🇳 |
 
 ---
 
