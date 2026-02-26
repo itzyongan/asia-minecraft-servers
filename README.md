@@ -9,20 +9,17 @@
 | ⭐ as.mcpvp.club | 🇸🇬 |
 | ⭐ as.minemen.club | 🇸🇬 |
 | ⭐ as.stray.gg | 🇸🇬 |
-| pvpconnect.xyz | 🇰🇷 |
-| xyrismc.fun | 🇮🇳 |
 | as.meowmc.fun | 🇸🇬 |
 | as.metalmc.vip | 🇸🇬 |
 | as.strikemc.net | 🇸🇬 |
 | as.xylon.gg | 🇸🇬 |
 | asiaprac.xyz | 🇸🇬 |
-
----
+| xyrismc.fun | 🇮🇳 |
+| pvpconnect.xyz | 🇰🇷 |
 
 ### 🔓 Cracked Servers
 | Server | Country |
 |--------|---------|
-| as.leafpvp.icu | 🇻🇳 |
 | as.acentramc.com | 🇸🇬 |
 | as.chickencraft.nl | 🇸🇬 |
 | as.fusion-network.xyz | 🇸🇬 |
@@ -34,6 +31,7 @@
 | minesive.com | 🇸🇬 |
 | romdoulmc.vip | 🇸🇬 |
 | staticpvp.fun | 🇸🇬 |
+| as.leafpvp.icu | 🇻🇳 |
 
 ### 🤝 Contribute
 Open a pull request or contact me on Discord to suggest new servers.
