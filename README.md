@@ -2,6 +2,8 @@
 
 - ⭐ = Top Picks
 
+---
+
 ## 💎 Premium Servers
 | Server Address | Country | Note |
 |--------|---------|------|
@@ -33,8 +35,14 @@
 | staticpvp.fun | 🇸🇬 |  |
 | as.leafpvp.icu | 🇻🇳 |  |
 
+---
+
 ## 🤝 Contribute
 Open a pull request or join my [Discord server](https://discord.gg/TTAgYjXmkh) to suggest new servers.
 
+---
+
 ## 💬 Support
 If you have any questions or issues, join my [Discord server](https://discord.gg/TTAgYjXmkh).
+
+---
