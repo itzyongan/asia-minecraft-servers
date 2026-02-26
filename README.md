@@ -1,6 +1,6 @@
 ## 🌏 AS Servers
 
-Note: ⭐ = Top Picks
+- ⭐ = Top Picks
 
 ### 💎 Premium Servers
 | Server Address | Country | Note |
