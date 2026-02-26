@@ -34,8 +34,7 @@
 | as.leafpvp.icu | 🇻🇳 |  |
 
 ### 🤝 Contribute
-Open a pull request or contact me on Discord to suggest new servers.
+Open a pull request or join my [Discord server](https://discord.gg/TTAgYjXmkh) to suggest new servers.
 
 ### 💬 Support
-If you have any questions or issues, contact me on Discord:  
-👉 https://discord.gg/TTAgYjXmkh
+If you have any questions or issues, join my [Discord server](https://discord.gg/TTAgYjXmkh).
