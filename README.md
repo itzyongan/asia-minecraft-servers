@@ -5,7 +5,7 @@
 ---
 
 ## 💎 Premium Servers
-| Server Address | Country | Note |
+| Server Address | Location | Note |
 |--------|---------|------|
 | ⭐ as.catpvp.xyz | 🇸🇬 |  |
 | ⭐ as.mcpvp.club | 🇸🇬 |  |
@@ -20,7 +20,7 @@
 | pvpconnect.xyz | 🇰🇷 |  |
 
 ## 🔓 Cracked Servers
-| Server Address | Country | Note |
+| Server Address | Location | Note |
 |--------|---------|------|
 | as.acentramc.com | 🇸🇬 |  |
 | as.chickencraft.nl | 🇸🇬 |  |
