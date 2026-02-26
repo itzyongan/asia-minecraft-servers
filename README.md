@@ -24,10 +24,10 @@
 |--------|---------|
 | as.acentramc.com | 🇸🇬 |
 | as.chickencraft.nl | 🇸🇬 |
-| as.fusion-network.xyz | 🇸🇬 |
 | as.serenitypvp.net | 🇸🇬 |
 | as.swiftsmp.net | 🇸🇬 |
 | friendlymc.vip | 🇸🇬 |
+| fusion-network.xyz | 🇸🇬 |
 | gamertee.net | 🇸🇬 |
 | mazerclub.net | 🇸🇬 |
 | minesive.com | 🇸🇬 |
