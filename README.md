@@ -18,7 +18,7 @@
 | pvpconnect.xyz | 🇰🇷 |
 
 ### 🔓 Cracked Servers
-| Server | Country |
+| Server Address | Country |
 |--------|---------|
 | as.acentramc.com | 🇸🇬 |
 | as.chickencraft.nl | 🇸🇬 |
