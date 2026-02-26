@@ -1,7 +1,6 @@
 ## 🌏 AS Servers
 
-### ⭐ Legend
-- ⭐ = Top Picks
+### ⭐ = Top Picks
 
 ### 💎 Premium Servers
 | Server | Country |
