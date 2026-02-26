@@ -7,7 +7,7 @@
 ## 💎 Premium Servers
 | Server Address | FFA | Duels | Location |
 |--------|-----|-------|---------|
-| ⭐ as.catpvp.xyz | - | ✅ | 🇸🇬 |
+| ⭐ as.catpvp.xyz | ❌ | ✅ | 🇸🇬 |
 | ⭐ as.mcpvp.club | - | ✅ | 🇸🇬 |
 | ⭐ as.minemen.club | - | ✅ | 🇸🇬 |
 | ⭐ as.stray.gg | ✅ | - | 🇸🇬 |
