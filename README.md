@@ -5,35 +5,35 @@
 ---
 
 ## 💎 Premium Servers
-| Server Address | Duels | FFA | Location |
-|--------|-------|-----|---------|
-| ⭐ as.catpvp.xyz | ✅ | ❌ | 🇸🇬 |
-| ⭐ as.mcpvp.club | ✅ | ❌ | 🇸🇬 |
-| ⭐ as.minemen.club | ✅ | ✅ | 🇸🇬 |
-| ⭐ as.stray.gg | ~ | ✅ | 🇸🇬 |
-| as.meowmc.fun | ✅ | ✅ | 🇸🇬 |
-| as.metalmc.vip | ✅ | ✅ | 🇸🇬 |
-| as.strikemc.net | ✅ | ✅ | 🇸🇬 |
-| as.xylon.gg | ❌ | ✅ | 🇸🇬 |
-| asiaprac.xyz | ❌ | ❌ | 🇸🇬 |
-| xyrismc.fun | ✅ | ✅ | 🇮🇳 |
-| pvpconnect.xyz | ✅ | ✅ | 🇰🇷 |
+| Server Address | Duels | FFA | Crystal | Location |
+|--------|-------|-----|-------------|---------|
+| ⭐ as.catpvp.xyz | ✅ | ❌ | ❌ | 🇸🇬 |
+| ⭐ as.mcpvp.club | ✅ | ❌ | ❌ | 🇸🇬 |
+| ⭐ as.minemen.club | ✅ | ✅ | ❌ | 🇸🇬 |
+| ⭐ as.stray.gg | ~ | ✅ | ❌ | 🇸🇬 |
+| xyrismc.fun | ✅ | ✅ | ❌ | 🇮🇳 |
+| pvpconnect.xyz | ✅ | ✅ | ❌ | 🇰🇷 |
+| as.meowmc.fun | ✅ | ✅ | ❌ | 🇸🇬 |
+| as.metalmc.vip | ✅ | ✅ | ❌ | 🇸🇬 |
+| as.strikemc.net | ✅ | ✅ | ❌ | 🇸🇬 |
+| as.xylon.gg | ❌ | ✅ | ❌ | 🇸🇬 |
+| asiaprac.xyz | ❌ | ❌ | ❌ | 🇸🇬 |
 
 ## 🔓 Cracked Serverss
-| Server Address | Duels | FFA | Location |
-|--------|-------|-----|---------|
-| as.acentramc.com | ✅ | ✅ | 🇸🇬 |
-| as.chickencraft.nl | ✅ | ✅ | 🇸🇬 |
-| as.serenitypvp.net | ~ | ~ | 🇸🇬 |
-| as.swiftsmp.net | ❌ | ✅ | 🇸🇬 |
-| friendlymc.vip | ✅ | ✅ | 🇸🇬 |
-| fusion-network.xyz | ❌ | ✅ | 🇸🇬 |
-| gamertee.net | ✅ | ✅ | 🇸🇬 |
-| mazerclub.net | ✅ | ✅ | 🇸🇬 |
-| minesive.com | ✅ | ✅ | 🇸🇬 |
-| romdoulmc.vip | ✅ | ✅ | 🇸🇬 |
-| staticpvp.fun | ✅ | ✅ | 🇸🇬 |
-| as.leafpvp.icu | ❌ | ❌ | 🇻🇳 |
+| Server Address | Duels | FFA | Crystal | Location |
+|--------|-------|-----|-------------|---------|
+| as.acentramc.com | ✅ | ✅ | ❌ | 🇸🇬 |
+| as.chickencraft.nl | ✅ | ✅ | ❌ | 🇸🇬 |
+| as.serenitypvp.net | ~ | ~ | ❌ | 🇸🇬 |
+| as.swiftsmp.net | ❌ | ✅ | ❌ | 🇸🇬 |
+| friendlymc.vip | ✅ | ✅ | ❌ | 🇸🇬 |
+| fusion-network.xyz | ❌ | ✅ | ❌ | 🇸🇬 |
+| gamertee.net | ✅ | ✅ | ❌ | 🇸🇬 |
+| mazerclub.net | ✅ | ✅ | ❌ | 🇸🇬 |
+| minesive.com | ✅ | ✅ | ❌ | 🇸🇬 |
+| romdoulmc.vip | ✅ | ✅ | ❌ | 🇸🇬 |
+| staticpvp.fun | ✅ | ✅ | ❌ | 🇸🇬 |
+| as.leafpvp.icu | ❌ | ❌ | ❌ | 🇻🇳 |
 
 ---
 
