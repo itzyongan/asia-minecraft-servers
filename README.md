@@ -10,7 +10,7 @@
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ |  |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ |  |
 | ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | Partial FFA |
-| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | Also Crystal PvP |
+| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | Also Crystal |
 | xyrismc.fun | 🇮🇳 | ✅ | ✅ |  |
 | pvpconnect.xyz | 🇰🇷 | ✅ | ✅ |  |
 | as.meowmc.fun | 🇸🇬 | ✅ | ✅ |  |
