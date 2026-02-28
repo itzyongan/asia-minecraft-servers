@@ -41,7 +41,7 @@
 ---
 
 ## 🤝 Contribute
-Open a pull request or join my [Discord server](https://discord.gg/TTAgYjXmkh) to suggest new servers.
+Open a pull request to suggest new servers.
 
 ---
 
