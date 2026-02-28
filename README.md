@@ -5,34 +5,34 @@
 ---
 
 ## 💎 Premium Servers
-| Server IP | Duels | FFA | Country | Note |
-|--------|-------|-----|---------|------|
-| ⭐ as.catpvp.xyz | ✅ | ❌ | 🇸🇬 |  |
-| ⭐ as.mcpvp.club | ✅ | ❌ | 🇸🇬 |  |
-| ⭐ as.minemen.club | ✅ | ~ | 🇸🇬 |  |
-| ⭐ as.stray.gg | ? | ✅ | 🇸🇬 |  |
-| xyrismc.fun | ✅ | ✅ | 🇮🇳 |  |
-| pvpconnect.xyz | ✅ | ✅ | 🇰🇷 |  |
-| as.meowmc.fun | ✅ | ✅ | 🇸🇬 |  |
-| as.metalmc.vip | ✅ | ✅ | 🇸🇬 |  |
-| as.strikemc.net | ✅ | ✅ | 🇸🇬 |  |
-| as.xylon.gg | ❌ | ✅ | 🇸🇬 |  |
-| asiaprac.xyz | ❌ | ❌ | 🇸🇬 | Crystal Only |
+| Server IP | Country | Duels | FFA | Note |
+|--------|---------|-------|-----|------|
+| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ |  |
+| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ |  |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ |  |
+| ⭐ as.stray.gg | 🇸🇬 | ? | ✅ |  |
+| xyrismc.fun | 🇮🇳 | ✅ | ✅ |  |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ |  |
+| as.meowmc.fun | 🇸🇬 | ✅ | ✅ |  |
+| as.metalmc.vip | 🇸🇬 | ✅ | ✅ |  |
+| as.strikemc.net | 🇸🇬 | ✅ | ✅ |  |
+| as.xylon.gg | 🇸🇬 | ❌ | ✅ |  |
+| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | Crystal Only |
 
-## 🔓 Cracked Serverss
-| Server IP | Duels | FFA | Country | Note |
-|--------|-------|-----|---------|------|
-| as.acentramc.com | ✅ | ✅ | 🇸🇬 |  |
-| as.chickencraft.nl | ✅ | ✅ | 🇸🇬 |  |
-| as.swiftsmp.net | ❌ | ✅ | 🇸🇬 |  |
-| friendlymc.vip | ✅ | ✅ | 🇸🇬 |  |
-| fusion-network.xyz | ❌ | ✅ | 🇸🇬 |  |
-| gamertee.net | ✅ | ✅ | 🇸🇬 |  |
-| mazerclub.net | ✅ | ✅ | 🇸🇬 |  |
-| minesive.com | ✅ | ✅ | 🇸🇬 |  |
-| romdoulmc.vip | ✅ | ✅ | 🇸🇬 |  |
-| staticpvp.fun | ✅ | ✅ | 🇸🇬 |  |
-| as.leafpvp.icu | ❌ | ❌ | 🇻🇳 | Crystal Only |
+## 🔓 Cracked Servers
+| Server IP | Country | Duels | FFA | Note |
+|--------|---------|-------|-----|------|
+| as.acentramc.com | 🇸🇬 | ✅ | ✅ |  |
+| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ |  |
+| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ |  |
+| friendlymc.vip | 🇸🇬 | ✅ | ✅ |  |
+| fusion-network.xyz | 🇸🇬 | ❌ | ✅ |  |
+| gamertee.net | 🇸🇬 | ✅ | ✅ |  |
+| mazerclub.net | 🇸🇬 | ✅ | ✅ |  |
+| minesive.com | 🇸🇬 | ✅ | ✅ |  |
+| romdoulmc.vip | 🇸🇬 | ✅ | ✅ |  |
+| staticpvp.fun | 🇸🇬 | ✅ | ✅ |  |
+| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | Crystal Only |
 
 ---
 
