@@ -17,7 +17,7 @@
 | as.metalmc.vip | ✅ | ✅ | ❌ | 🇸🇬 |
 | as.strikemc.net | ✅ | ✅ | ❌ | 🇸🇬 |
 | as.xylon.gg | ❌ | ✅ | ❌ | 🇸🇬 |
-| asiaprac.xyz | ❌ | ❌ | ❌ | 🇸🇬 |
+| asiaprac.xyz | ❌ | ❌ | ✅ | 🇸🇬 |
 
 ## 🔓 Cracked Serverss
 | Server Address | Duels | FFA | Crystal | Location |
@@ -33,7 +33,7 @@
 | minesive.com | ✅ | ✅ | ❌ | 🇸🇬 |
 | romdoulmc.vip | ✅ | ✅ | ❌ | 🇸🇬 |
 | staticpvp.fun | ✅ | ✅ | ❌ | 🇸🇬 |
-| as.leafpvp.icu | ❌ | ❌ | ❌ | 🇻🇳 |
+| as.leafpvp.icu | ❌ | ❌ | ✅ | 🇻🇳 |
 
 ---
 
