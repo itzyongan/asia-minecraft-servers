@@ -5,7 +5,7 @@
 ---
 
 ## 💎 Premium Servers
-| Server IP | Duels | FFA | Location | Note |
+| Server IP | Duels | FFA | Country | Note |
 |--------|-------|-----|---------|------|
 | ⭐ as.catpvp.xyz | ✅ | ❌ | 🇸🇬 |  |
 | ⭐ as.mcpvp.club | ✅ | ❌ | 🇸🇬 |  |
@@ -20,7 +20,7 @@
 | asiaprac.xyz | ❌ | ❌ | 🇸🇬 | Crystal Only |
 
 ## 🔓 Cracked Serverss
-| Server IP | Duels | FFA | Location | Note |
+| Server IP | Duels | FFA | Country | Note |
 |--------|-------|-----|---------|------|
 | as.acentramc.com | ✅ | ✅ | 🇸🇬 |  |
 | as.chickencraft.nl | ✅ | ✅ | 🇸🇬 |  |
