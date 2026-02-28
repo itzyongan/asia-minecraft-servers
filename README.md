@@ -9,8 +9,8 @@
 |--------|---------|-------|-----|------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ |  |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ |  |
-| ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ |  |
-| ⭐ as.stray.gg | 🇸🇬 | ? | ✅ |  |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | Partial FFA |
+| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | Has Crystal |
 | xyrismc.fun | 🇮🇳 | ✅ | ✅ |  |
 | pvpconnect.xyz | 🇰🇷 | ✅ | ✅ |  |
 | as.meowmc.fun | 🇸🇬 | ✅ | ✅ |  |
