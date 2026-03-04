@@ -30,9 +30,9 @@
 | as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | - |
 | as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | - |
 | friendlymc.vip | 🇸🇬 | ✅ | ✅ | ✅ |
-| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | - |
+| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ |
 | gamertee.net | 🇸🇬 | ✅ | ✅ | - |
-| mazerclub.net | 🇸🇬 | ✅ | ✅ | - |
+| mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
 | minesive.com | 🇸🇬 | ✅ | ✅ | - |
 | romdoulmc.vip | 🇸🇬 | ✅ | ✅ | - |
 | staticpvp.fun | 🇸🇬 | ✅ | ✅ | - |
