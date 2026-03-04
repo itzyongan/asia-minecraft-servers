@@ -11,15 +11,15 @@
 ## 💎 Premium Servers
 | Server IP | Country | Duels | FFA | Sandbox | Note |
 |--------|---------|-------|-----|---------|------|
-| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ? |  |
+| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |  |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ? |  |
 | ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | ? | *Partial FFA* |
-| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ? | *Also Crystal* |
+| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |  |
 | as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ? |  |
 | as.metalmc.vip | 🇸🇬 | ✅ | ✅ | ? |  |
 | as.strikemc.net | 🇸🇬 | ✅ | ✅ | ? |  |
 | as.xylon.gg | 🇸🇬 | ❌ | ✅ | ? |  |
-| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ? | *Crystal Only* |
+| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |  |
 | xyrismc.fun | 🇮🇳 | ✅ | ✅ | ? |  |
 | pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ? |  |
 
@@ -36,7 +36,7 @@
 | minesive.com | 🇸🇬 | ✅ | ✅ | ? |  |
 | romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ? |  |
 | staticpvp.fun | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ? | *Crystal Only* |
+| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |  |
 
 ---
 
