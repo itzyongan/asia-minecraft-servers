@@ -4,38 +4,38 @@
 - ✅ = Supported / Available
 - ❌ = Not Supported / Unavailable
 - ~ = Partial or Limited Support
-- ? = Unknown / Unverified
+- ❔ = Unknown / Unverified
 
 ---
 
 ## 💎 Premium Servers
-| Server IP | Region | Duels | FFA | Sandbox |
+| Server IP | Country | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
-| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ? |
+| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❔ |
 | ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | ❌ |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
-| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ? |
-| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | ? |
-| as.strikemc.net | 🇸🇬 | ✅ | ✅ | ? |
-| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ? |
+| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ❔ |
+| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | ❔ |
+| as.strikemc.net | 🇸🇬 | ✅ | ✅ | ❔ |
+| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❔ |
 | asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
-| xyrismc.fun | 🇮🇳 | ✅ | ✅ | ? |
-| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ? |
+| xyrismc.fun | 🇮🇳 | ✅ | ✅ | ❔ |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❔ |
 
 ## 🔓 Cracked Servers
-| Server IP | Region | Duels | FFA | Sandbox |
+| Server IP | Country | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
-| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ? |
-| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ? |
-| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ? |
-| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ? |
-| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ? |
-| gamertee.net | 🇸🇬 | ✅ | ✅ | ? |
-| mazerclub.net | 🇸🇬 | ✅ | ✅ | ? |
-| minesive.com | 🇸🇬 | ✅ | ✅ | ? |
-| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ? |
-| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ? |
+| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❔ |
+| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ❔ |
+| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ❔ |
+| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ❔ |
+| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❔ |
+| gamertee.net | 🇸🇬 | ✅ | ✅ | ❔ |
+| mazerclub.net | 🇸🇬 | ✅ | ✅ | ❔ |
+| minesive.com | 🇸🇬 | ✅ | ✅ | ❔ |
+| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ❔ |
+| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❔ |
 | as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 
 ---
