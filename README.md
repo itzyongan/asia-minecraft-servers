@@ -1,10 +1,10 @@
 # 🌏 AS Servers
 
-- ⭐ = Top Picks
-- ✅ = Supported / Available
-- ❌ = Not Supported / Unavailable
-- ~ = Partial or Limited Support
-- - = Unknown / Unverified
+- ⭐ = Top Pick
+- ✅ = Available
+- ❌ = Unavailable
+- ~ = Limited Availability 
+- \- = Unknown / Unverified
 
 ---
 
