@@ -12,7 +12,7 @@
 | Server IP | Region | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
-| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❔ |
+| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ |
 | ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | ❌ |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
 | as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ❔ |
@@ -29,7 +29,7 @@
 | as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❔ |
 | as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ❔ |
 | as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ❔ |
-| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ❔ |
+| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ✅ |
 | fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❔ |
 | gamertee.net | 🇸🇬 | ✅ | ✅ | ❔ |
 | mazerclub.net | 🇸🇬 | ✅ | ✅ | ❔ |
