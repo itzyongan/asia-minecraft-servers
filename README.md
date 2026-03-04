@@ -9,34 +9,34 @@
 ---
 
 ## 💎 Premium Servers
-| Server IP | Country | Duels | FFA | Sandbox | Note |
-|--------|---------|-------|-----|---------|------|
-| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |  |
-| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ? |  |
-| ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | ? | *Partial FFA* |
-| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |  |
-| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.strikemc.net | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ? |  |
-| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |  |
-| xyrismc.fun | 🇮🇳 | ✅ | ✅ | ? |  |
-| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ? |  |
+| Server IP | Country | Duels | FFA | Sandbox |
+|--------|---------|-------|-----|---------|
+| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
+| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ? |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | ❌ |
+| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
+| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ? |
+| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | ? |
+| as.strikemc.net | 🇸🇬 | ✅ | ✅ | ? |
+| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ? |
+| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
+| xyrismc.fun | 🇮🇳 | ✅ | ✅ | ? |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ? |
 
 ## 🔓 Cracked Servers
-| Server IP | Country | Duels | FFA | Sandbox | Note |
-|--------|---------|-------|-----|---------|------|
-| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ? |  |
-| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ? |  |
-| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ? |  |
-| gamertee.net | 🇸🇬 | ✅ | ✅ | ? |  |
-| mazerclub.net | 🇸🇬 | ✅ | ✅ | ? |  |
-| minesive.com | 🇸🇬 | ✅ | ✅ | ? |  |
-| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ? |  |
-| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ? |  |
-| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |  |
+| Server IP | Country | Duels | FFA | Sandbox |
+|--------|---------|-------|-----|---------|
+| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ? |
+| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ? |
+| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ? |
+| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ? |
+| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ? |
+| gamertee.net | 🇸🇬 | ✅ | ✅ | ? |
+| mazerclub.net | 🇸🇬 | ✅ | ✅ | ? |
+| minesive.com | 🇸🇬 | ✅ | ✅ | ? |
+| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ? |
+| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ? |
+| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 
 ---
 
