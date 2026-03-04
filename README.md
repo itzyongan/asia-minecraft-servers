@@ -9,7 +9,7 @@
 ---
 
 ## 💎 Premium Servers
-| Server IP | Country | Duels | FFA | Sandbox |
+| Server IP | Region | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ? |
@@ -24,7 +24,7 @@
 | pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ? |
 
 ## 🔓 Cracked Servers
-| Server IP | Country | Duels | FFA | Sandbox |
+| Server IP | Region | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
 | as.acentramc.com | 🇸🇬 | ✅ | ✅ | ? |
 | as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ? |
