@@ -15,17 +15,18 @@
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ |  |
 | ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | *Partial FFA* |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | *Also Crystal* |
-| xyrismc.fun | 🇮🇳 | ✅ | ✅ |  |
-| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ |  |
+| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | *Crystal Only* |
 | as.meowmc.fun | 🇸🇬 | ✅ | ✅ |  |
 | as.metalmc.vip | 🇸🇬 | ✅ | ✅ |  |
 | as.strikemc.net | 🇸🇬 | ✅ | ✅ |  |
 | as.xylon.gg | 🇸🇬 | ❌ | ✅ |  |
-| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | *Crystal Only* |
+| xyrismc.fun | 🇮🇳 | ✅ | ✅ |  |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ |  |
 
 ## 🔓 Cracked Servers
 | Server IP | Country | Duels | FFA | Note |
 |--------|---------|-------|-----|------|
+| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | *Crystal Only* |
 | as.acentramc.com | 🇸🇬 | ✅ | ✅ |  |
 | as.chickencraft.nl | 🇸🇬 | ✅ | ✅ |  |
 | as.swiftsmp.net | 🇸🇬 | ❌ | ✅ |  |
@@ -36,7 +37,6 @@
 | minesive.com | 🇸🇬 | ✅ | ✅ |  |
 | romdoulmc.vip | 🇸🇬 | ✅ | ✅ |  |
 | staticpvp.fun | 🇸🇬 | ✅ | ✅ |  |
-| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | *Crystal Only* |
 
 ---
 
