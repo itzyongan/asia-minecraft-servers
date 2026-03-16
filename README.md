@@ -3,7 +3,7 @@
 - ⭐ = Top Pick
 - ✔ = Available
 - ❌ = Unavailable
-- ~ = Limited Availability 
+- ❓ = Limited Availability 
 - \- = Unknown / Unverified
 
 ---
@@ -13,7 +13,7 @@
 |--------|---------|-------|-----|---------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ |
-| ⭐ as.minemen.club | 🇸🇬 | ✅ | ~ | ❌ |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | ❓ | ❌ |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
 | as.meowmc.fun | 🇸🇬 | ✅ | ✅ | - |
 | as.metalmc.vip | 🇸🇬 | ✅ | ✅ | - |
