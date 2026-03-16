@@ -26,16 +26,16 @@
 ## 🔓 Cracked Servers
 | Server IP | Region | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
-| as.acentramc.com | 🇸🇬 | ✅ | ✅ | - |
-| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | - |
-| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | - |
+| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❌ |
+| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ✅ |
+| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ✅ |
 | friendlymc.vip | 🇸🇬 | ✅ | ✅ | ✅ |
 | fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ |
-| gamertee.net | 🇸🇬 | ✅ | ✅ | - |
+| gamertee.net | 🇸🇬 | ✅ | ✅ | ❌ |
 | mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
-| minesive.com | 🇸🇬 | ✅ | ✅ | - |
-| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | - |
-| staticpvp.fun | 🇸🇬 | ✅ | ✅ | - |
+| minesive.com | 🇸🇬 | ✅ | ✅ | ✅ |
+| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ❌ |
+| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❌ |
 | as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 
 ---
