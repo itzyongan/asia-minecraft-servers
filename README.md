@@ -1,7 +1,7 @@
 # 🌏 AS Servers
 
 - ⭐ = Top Pick
-- ✅ = Available
+- ✔ = Available
 - ❌ = Unavailable
 - ~ = Limited Availability 
 - \- = Unknown / Unverified
