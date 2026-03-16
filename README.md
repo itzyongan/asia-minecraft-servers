@@ -13,29 +13,29 @@
 |--------|---------|-------|-----|---------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ |
-| ⭐ as.minemen.club | 🇸🇬 | ✅ | ❓ | ❌ |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | - | ❌ |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
-| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | - |
-| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | - |
-| as.strikemc.net | 🇸🇬 | ✅ | ✅ | - |
-| as.xylon.gg | 🇸🇬 | ❌ | ✅ | - |
+| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | ❓ |
+| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | ❓ |
+| as.strikemc.net | 🇸🇬 | ✅ | ✅ | ❓ |
+| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❓ |
 | asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
-| xyrismc.fun | 🇮🇳 | ✅ | ✅ | - |
-| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | - |
+| xyrismc.fun | 🇮🇳 | ✅ | ✅ | ❓ |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❓ |
 
 ## 🔓 Cracked Servers
 | Server IP | Region | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
-| as.acentramc.com | 🇸🇬 | ✅ | ✅ | - |
-| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | - |
-| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | - |
+| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❓ |
+| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ❓ |
+| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ❓ |
 | friendlymc.vip | 🇸🇬 | ✅ | ✅ | ✅ |
 | fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ |
-| gamertee.net | 🇸🇬 | ✅ | ✅ | - |
+| gamertee.net | 🇸🇬 | ✅ | ✅ | ❓ |
 | mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
-| minesive.com | 🇸🇬 | ✅ | ✅ | - |
-| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | - |
-| staticpvp.fun | 🇸🇬 | ✅ | ✅ | - |
+| minesive.com | 🇸🇬 | ✅ | ✅ | ❓ |
+| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ❓ |
+| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❓ |
 | as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 
 ---
