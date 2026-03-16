@@ -3,8 +3,8 @@
 - ⭐ = Top Pick
 - ✔ = Available
 - ❌ = Unavailable
-- ❓ = Limited Availability 
-- \- = Unknown / Unverified
+- \- = Limited Availability 
+- ❓ = Unknown / Unverified
 
 ---
 
