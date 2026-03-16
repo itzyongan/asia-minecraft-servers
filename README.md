@@ -15,13 +15,13 @@
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ |
 | ⭐ as.minemen.club | 🇸🇬 | ✅ | ❔ | ❌ |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
-| as.meowmc.fun | 🇸🇬 | ✅ | ✅ | - |
+| as.meowmc.fun | 🇸🇬 | ✅ | ❌ | ❌ |
 | as.metalmc.vip | 🇸🇬 | ✅ | ✅ | - |
 | as.strikemc.net | 🇸🇬 | ✅ | ✅ | - |
-| as.xylon.gg | 🇸🇬 | ❌ | ✅ | - |
+| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❌ |
 | asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
-| xyrismc.fun | 🇮🇳 | ✅ | ✅ | - |
-| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | - |
+| xyrismc.fun | 🇮🇳 | ✅ | ❌ | ❌ |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❌ |
 
 ## 🔓 Cracked Servers
 | Server IP | Region | Duels | FFA | Sandbox |
