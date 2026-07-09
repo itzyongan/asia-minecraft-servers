@@ -34,7 +34,6 @@
 | gamertee.net | 🇸🇬 | ✅ | ✅ | ❌ |
 | mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
 | minesive.com | 🇸🇬 | ✅ | ✅ | ✅ |
-| romdoulmc.vip | 🇸🇬 | ✅ | ✅ | ❌ |
 | staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❌ |
 | as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 
