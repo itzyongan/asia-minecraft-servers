@@ -20,22 +20,21 @@
 | as.strikemc.net | 🇸🇬 | ✅ | ✅ | - |
 | as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❌ |
 | asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
-| xyrismc.fun | 🇮🇳 | ✅ | ❌ | ❌ |
 | pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❌ |
+| xyrismc.fun | 🇮🇳 | ✅ | ❌ | ❌ |
 
 ## 🔓 Cracked Servers
 | Server IP | Region | Duels | FFA | Sandbox |
 |--------|---------|-------|-----|---------|
 | as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❌ |
 | as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ✅ |
-| as.swiftsmp.net | 🇸🇬 | ❌ | ✅ | ✅ |
-| friendlymc.vip | 🇸🇬 | ✅ | ✅ | ✅ |
+| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 | fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ |
 | gamertee.net | 🇸🇬 | ✅ | ✅ | ❌ |
 | mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
 | minesive.com | 🇸🇬 | ✅ | ✅ | ✅ |
+| play.swiftsmp.com | 🇸🇬 | ❌ | ✅ | ✅ |
 | staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❌ |
-| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 
 ---
 
