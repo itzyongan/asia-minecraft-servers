@@ -20,6 +20,7 @@
 | as.strikemc.net | 🇸🇬 | ✅ | ✅ | - |
 | as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❌ |
 | asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
+| play.pvphq.com | 🇸🇬 | ✅ | - | - |
 | pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❌ |
 | xyrismc.fun | 🇮🇳 | ✅ | ❌ | ❌ |
 
