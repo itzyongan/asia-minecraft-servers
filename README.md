@@ -4,7 +4,7 @@
 - ✅ = Available
 - ❌ = Unavailable
 - ❔ = Limited Availability 
-- \- = Unknown / Unverified
+- `\-` = Unknown / Unverified
 
 ---
 
