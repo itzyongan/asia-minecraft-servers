@@ -13,7 +13,7 @@
 |--------|---------|-------|-----|---------|------|
 | ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ | |
 | ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ | |
-| ⭐ as.minemen.club | 🇸🇬 | ✅ | ❔ | ❌ | FFA Sword |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | ❔ | ❌ | Sword FFA Only |
 | ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ | |
 | as.meowmc.fun | 🇸🇬 | ✅ | ❌ | ❌ | |
 | as.metalmc.vip | 🇸🇬 | ✅ | ✅ | `-` | |
