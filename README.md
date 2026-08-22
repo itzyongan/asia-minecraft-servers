@@ -9,32 +9,32 @@
 ---
 
 ## 💎 Premium Servers
-| Server IP | Region | Duels | FFA | Sandbox |
-|--------|---------|-------|-----|---------|
-| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ |
-| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ |
-| ⭐ as.minemen.club | 🇸🇬 | ✅ | ❔ | ❌ |
-| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ |
-| as.meowmc.fun | 🇸🇬 | ✅ | ❌ | ❌ |
-| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | - |
-| as.strikemc.net | 🇸🇬 | ✅ | ✅ | - |
-| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❌ |
-| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ |
-| play.pvphq.com | 🇸🇬 | ✅ | - | - |
-| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❌ |
-| xyrismc.fun | 🇮🇳 | ✅ | ❌ | ❌ |
+| Server IP | Region | Duels | FFA | Sandbox | Note |
+|--------|---------|-------|-----|---------|------|
+| ⭐ as.catpvp.xyz | 🇸🇬 | ✅ | ❌ | ✅ | |
+| ⭐ as.mcpvp.club | 🇸🇬 | ✅ | ❌ | ❌ | |
+| ⭐ as.minemen.club | 🇸🇬 | ✅ | ❔ | ❌ | Sword only FFA |
+| ⭐ as.stray.gg | 🇸🇬 | ❌ | ✅ | ✅ | |
+| as.meowmc.fun | 🇸🇬 | ✅ | ❌ | ❌ | |
+| as.metalmc.vip | 🇸🇬 | ✅ | ✅ | `-` | |
+| as.strikemc.net | 🇸🇬 | ✅ | ✅ | `-` | |
+| as.xylon.gg | 🇸🇬 | ❌ | ✅ | ❌ | |
+| asiaprac.xyz | 🇸🇬 | ❌ | ❌ | ✅ | |
+| play.pvphq.com | 🇸🇬 | ✅ | `-` | `-` | |
+| pvpconnect.xyz | 🇰🇷 | ✅ | ✅ | ❌ | |
+| xyrismc.fun | 🇮🇳 | ✅ | ❌ | ❌ | |
 
 ## 🔓 Cracked Servers
-| Server IP | Region | Duels | FFA | Sandbox |
-|--------|---------|-------|-----|---------|
-| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❌ |
-| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ✅ |
-| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ |
-| gamertee.net | 🇸🇬 | ✅ | ✅ | ❌ |
-| mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
-| minesive.com | 🇸🇬 | ✅ | ✅ | ✅ |
-| play.swiftsmp.com | 🇸🇬 | ❌ | ✅ | ✅ |
-| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❌ |
+| Server IP | Region | Duels | FFA | Sandbox | Note |
+|--------|---------|-------|-----|---------|------|
+| as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❌ | |
+| as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ✅ | |
+| fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ | |
+| gamertee.net | 🇸🇬 | ✅ | ✅ | ❌ | |
+| mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ | |
+| minesive.com | 🇸🇬 | ✅ | ✅ | ✅ | |
+| play.swiftsmp.com | 🇸🇬 | ❌ | ✅ | ✅ | |
+| staticpvp.fun | 🇸🇬 | ✅ | ✅ | ❌ | |
 
 ---
 
