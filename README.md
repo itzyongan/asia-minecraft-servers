@@ -4,7 +4,7 @@
 - ✅ = Available
 - ❌ = Unavailable
 - ❔ = Limited Availability 
-- \- = Unknown / Unverified
+- - = Unknown / Unverified
 
 ---
 
@@ -29,7 +29,6 @@
 |--------|---------|-------|-----|---------|
 | as.acentramc.com | 🇸🇬 | ✅ | ✅ | ❌ |
 | as.chickencraft.nl | 🇸🇬 | ✅ | ✅ | ✅ |
-| as.leafpvp.icu | 🇻🇳 | ❌ | ❌ | ✅ |
 | fusion-network.xyz | 🇸🇬 | ❌ | ✅ | ❌ |
 | gamertee.net | 🇸🇬 | ✅ | ✅ | ❌ |
 | mazerclub.net | 🇸🇬 | ✅ | ✅ | ✅ |
